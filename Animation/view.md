@@ -37,3 +37,13 @@ View
 > Android view with both path from constructed path or from svg.
 
 ![](https://github.com/geftimov/android-pathview/raw/master/art/fill-after-resize-new.gif)
+
+## [BottomBar](https://github.com/roughike/BottomBar)
+> A custom view component that mimics the new Material Design Bottom Navigation pattern.
+
+![](https://raw.githubusercontent.com/roughike/BottomBar/master/graphics/shifting-demo.gif)
+
+## [PasscodeView](https://github.com/hanks-zyh/PasscodeView)
+> Material Design PasscodeView for Android.
+
+![](https://github.com/hanks-zyh/PasscodeView/raw/master/screenshot/demo.gif)
