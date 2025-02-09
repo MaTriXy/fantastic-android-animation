@@ -1,4 +1,15 @@
-# fantastic-android-animation
+# awesome android animation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+❤️ Support my apps ❤️ 
+
+- [Push Hero - pure Swift native macOS application to test push notifications](https://onmyway133.com/pushhero)
+- [PastePal - Pasteboard, note and shortcut manager](https://onmyway133.com/pastepal)
+- [Quick Check - smart todo manager](https://onmyway133.com/quickcheck)
+- [Alias - App and file shortcut manager](https://onmyway133.com/alias)
+- [My other apps](https://onmyway133.com/apps/)
+
+❤️❤️😇😍🤘❤️❤️
+
 A collection of Android animation repos
 
 ![](Screenshots/Banner.png)
@@ -11,14 +22,15 @@ A collection of Android animation repos
 - [View](Animation/view.md)
 - [Menu](Animation/menu.md)
 - [Transition](Animation/transition.md)
+- [Layout/RecyclerView](Animation/layout.md)
 - [Pager/Tab](Animation/pager.md)
 - [Button](Animation/button.md)
 - [Slider](Animation/slider.md)
 - [Refresh](Animation/refresh.md)
-- [TextField](Animation/textfield.md)
+- [TextField/TextView](Animation/textfield.md)
 - [Picker](Animation/picker.md)
 - [Calendar](Animation/calendar.md)
-- [Camera/Photo Browser](Animation/camera.md)
+- [Camera/Photo Browser/Image Picker](Animation/camera.md)
 - [Chart](Animation/chart.md)
 - [Drawer](Animation/drawer.md)
 - [Tag](Animation/tag.md)

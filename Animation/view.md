@@ -47,3 +47,13 @@ View
 > Material Design PasscodeView for Android.
 
 ![](https://github.com/hanks-zyh/PasscodeView/raw/master/screenshot/demo.gif)
+
+## [Isometric](https://github.com/FabianTerhorst/Isometric)
+> Isometric drawing library for Android
+
+![](https://github.com/FabianTerhorst/Isometric/raw/master/lib/screenshots/io.fabianterhorst.isometric.screenshot.IsometricViewTest_doScreenshotThree.png?raw=true)
+
+## [ShadowImageView](https://github.com/yingLanNull/ShadowImageView)
+> It can change color according to the picture, more delicate shadow effect
+
+![](https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow.gif)
